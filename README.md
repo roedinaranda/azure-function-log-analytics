@@ -34,6 +34,7 @@ You can automate the deployment from GitHub to Azure Function by using GitHub Ac
 The json format you send in the function app will determine the column names that will be published on the log analytics table  
 Refer to the sample below
 
+```json
 [   
     {  
         'column1': 'data1',  
@@ -46,6 +47,8 @@ Refer to the sample below
         'column3': 'data6'  
     }  
 ]  
+
+```
 
     | column1 | column2 | column3 |
     |------|------------|------|
