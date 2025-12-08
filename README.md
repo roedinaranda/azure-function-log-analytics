@@ -35,22 +35,19 @@ The json format you send in the function app will determine the column names tha
 Refer to the sample below
 
 [   
-    {
-        'column1': 'data1',
-        'column2': 'data2',
-        'column3': 'data3'
-    },
-    {
-        'column1': 'data4',
-        'column2': 'data5',
-        'column3': 'data6'
-    }
-]
+    {  
+        'column1': 'data1',  
+        'column2': 'data2',  
+        'column3': 'data3'  
+    },  
+    {  
+        'column1': 'data4',  
+        'column2': 'data5',  
+        'column3': 'data6'  
+    }  
+]  
 
     | column1 | column2 | column3 |
     |------|------------|------|
     | data1 | data2 | data3 |
     | data4 | data5 | data6 |
-
-## ⚠️ Warning
-- You need to have an outlook app logged in and installed
