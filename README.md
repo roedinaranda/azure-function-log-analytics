@@ -20,7 +20,7 @@ Azure Function then processes the json event and sends it to Azure Log Analytics
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/roedinaranda/outlook-email-sender.git
+git clone https://github.com/roedinaranda/azure-function-log-analytics.git
 cd azure-function-log-analytics
 ```
 
