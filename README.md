@@ -15,7 +15,9 @@ Azure Function then processes the json event and sends it to Azure Log Analytics
 
 ## 📦 Requirements
 - Python 3.9+
-- Outlook (opened and logged in)
+- Azure Function
+- Azure Log Analytics
+- Github Actions
 
 ## 🚀 Setup
 
